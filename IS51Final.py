@@ -15,8 +15,9 @@ import file
     num4 = input(number_of_students_score_above_class_average)
     num5 = input(percentage_of_grades_above_average)
 
-    num3 = num1 / num 2
-    num5 = num4 / 1
+    num3 = num1 / num2
+    num5 = num4 / num1
+
 
 """
 import fileinput
