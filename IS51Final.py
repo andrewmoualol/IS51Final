@@ -19,18 +19,3 @@ import file
     num5 = num4 / 1
 
 """
-import fileinput
-
-def calculate_average():
-
-    text = open(r'Final.txt').read()
-    num_list = []
-
-    with open('Final.txt', 'r') as f:
-        for line in f:
-            num = line.strip()
-            num_list += [num]
-            return (num_list)
-
-
-main()
